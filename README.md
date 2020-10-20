@@ -1,7 +1,7 @@
 # Travel App UI - Nativescript with Angular
 
 ## [Watch it here](https://drive.google.com/file/d/1oucMmcn8joiW-YhYoYRg5paQoP2VDjZM/view?usp=sharing)
-![Demo](/travel-app-concept.png)
+![Demo](/travel-app-output.png)
 
 **UI Credit**
 
