@@ -3,6 +3,9 @@
   "main": "main.js",
   "license": "SEE LICENSE IN <your-license-filename>",
   "version": "0.0.0",
+  "nativescript": {
+    "id": "org.organization.app"
+  },
   "dependencies": {
     "@angular/animations": "~10.1.0",
     "@angular/common": "~10.1.0",
@@ -12,20 +15,28 @@
     "@angular/platform-browser": "~10.1.0",
     "@angular/platform-browser-dynamic": "~10.1.0",
     "@angular/router": "~10.1.0",
+    "@nativescript-community/ui-material-cardview": "^5.0.23",
     "@nativescript/angular": "~10.1.0",
     "@nativescript/core": "~7.0.0",
+    "nativescript-material-bottomsheet": "^3.3.1",
+    "nativescript-material-cardview": "^3.3.1",
+    "nativescript-material-core": "^3.3.1",
+    "nativescript-ng-shadow": "^2.1.0",
     "reflect-metadata": "~0.1.12",
     "rxjs": "~6.6.0",
     "tslib": "1.10.0",
     "zone.js": "~0.11.1"
   },
   "devDependencies": {
+    "@angular-devkit/core": "~10.1.0",
     "@angular/cli": "~10.1.0",
     "@angular/compiler-cli": "~10.1.0",
-    "@angular-devkit/core": "~10.1.0",
+    "@nativescript/android": "7.0.0",
+    "@nativescript/ios": "7.0.1",
+    "@nativescript/schematics": "^10.1.0",
     "@nativescript/webpack": "~3.0.0",
     "@ngtools/webpack": "~10.1.0",
-    "typescript": "~3.9.0",
-    "node-sass": "^4.7.1"
+    "node-sass": "^4.7.1",
+    "typescript": "~4.0.3"
   }
 }
